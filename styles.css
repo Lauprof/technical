@@ -137,3 +137,10 @@ html {
   [class*="col-"] {
     width: 100%;
   }
+.nav a{
+padding:10px;
+}
+h1{
+font-size:20px;
+}
+}
